@@ -1,0 +1,4 @@
+fatal: unable to update url base from redirection:
+  asked for: https://github.com/Mangalapriya-s/nini/new/main/info/refs?service=git-receive-pack
+   redirect: https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FMangalapriya-s%2Fnini%2Fnew%2Fmain%2Finfo%2Frefs%3Fservice%3Dgit-receive-pack
+PS C:\branch> 
